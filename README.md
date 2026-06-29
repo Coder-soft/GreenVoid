@@ -24,3 +24,6 @@ Minecraft 1.7.10+ with OptiFine or Iris. GLSL #version 120.
 
 You have to disable stars, moon and sun in order to take a clean screen shot.
 
+## Stats
+[![GreenVoid](https://modfolio.creeperkatze.dev/modrinth/project/greenvoid)](https://modrinth.com/shader/greenvoid)
+
